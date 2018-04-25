@@ -3,7 +3,7 @@
 ### Har du lyst til at programmere en arduino på dens "modersmål"?
 Måske du kender arduino fra før og har lyst til nye udfordringer?
 Måske vil du gerne vide mere om hvordan computere virker, eller måske kan du bare godt lide at beskæftige dig med detaljerne.
-![](./arduino_uno_a01.png)
+![](./ARDUINO_UNO_A01.png)
 I denne 4 timers workshop får du mulighed for at snuse til lidt af det hele. Vi vil kode os frem til mere viden om hvordan computeres hjerne er bygget op og virker, og vi vil se på hvad computere egentlig kan og hvad de ikke kan.
 
 Computere taler maskinkode som kan heldigvis kan oversættes direkte til assembler, der er meget lettere for os mennesker at forstå. Vi vil lære nogle af de mest interessante instruktioner at kende og bruge det til at lave et simpelt alarmsystem der kan aktiveres ved hjælp af forskellige kontakter, snubletråd, lysstråler og lignende. 
